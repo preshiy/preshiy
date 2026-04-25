@@ -1,16 +1,19 @@
-## Hi there 👋
+ Hi, I'm Preshiy👋
 
-<!--
-**preshiy/preshiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain Developer  
+Building APIs & Data Systems  Interested in Web3 & Open Source  
 
-Here are some ideas to get you started:
+Tech Stack
+- JavaScript
+- HTML
+- APIs
+- Node.js 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+- podcast-pipeline
+- holiday-calendar
+- movie-rating-normalizer
+- country-data-aggregator
+
+Connect with me
+- Twitter: @loho_a
