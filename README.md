@@ -51,3 +51,4 @@ Exploring Web3 and cross-chain payments
 🌐 Connect With Me
 
 Twitter: https://twitter.com/loho_a
+Email: alohoanna@gmail.com
